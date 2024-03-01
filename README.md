@@ -75,9 +75,10 @@ This article has proposed a method for detecting attacks based on ELM technology
 In the future, we can enhance this system further by expanding the computing and storage capabilities of the cloud system, leading to superior computational and storage capabilities of classifiers trained on it.
 
 VI.	References
-Kozik, R., Choraś, M., Ficco, M., & Palmieri, F. (2018). A scalable distributed machine learning approach for attack detection in edge computing environments. Journal of Parallel and Distributed Computing, 119, 18-26. https://doi.org/10.1016/j.jpdc.2018.03.006
 
-Garcia, S., Grill, M., Stiborek, J., & Zunino, A. (2014). An empirical comparison of botnet detection methods. Computers and Security, 45, 100-123. doi:10.1016/j.cose.2014.05.011
+ Kozik, R., Choraś, M., Ficco, M., & Palmieri, F. (2018). A scalable distributed machine learning approach for attack detection in edge computing environments. Journal of Parallel and Distributed Computing, 119, 18-26. https://doi.org/10.1016/j.jpdc.2018.03.006
+
+ Garcia, S., Grill, M., Stiborek, J., & Zunino, A. (2014). An empirical comparison of botnet detection methods. Computers and Security, 45, 100-123. doi:10.1016/j.cose.2014.05.011
 
 
 
